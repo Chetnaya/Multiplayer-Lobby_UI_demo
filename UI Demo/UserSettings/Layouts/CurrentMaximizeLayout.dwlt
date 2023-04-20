@@ -26,7 +26,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 29337
+  controlID: 38773
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -88,7 +88,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 29338
+  controlID: 38774
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -479,11 +479,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.03477632, y: 0.020383587, z: 0.00070971035, w: -0.9991902}
     speed: 2
-    m_Value: {x: 0.03477632, y: 0.020383587, z: 0.00070971035, w: -0.9991902}
+    m_Value: {x: 0.034776207, y: 0.020383522, z: 0.0007097081, w: -0.999187}
   m_Size:
-    m_Target: 796.04517
+    m_Target: 911.58307
     speed: 2
-    m_Value: 796.04517
+    m_Value: 911.58307
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -591,8 +591,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 78cdffff
-      m_LastClickedID: -12936
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: c0f8ffff00faffff34fbffff8658000090580000da58000018590000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -725,7 +725,7 @@ MonoBehaviour:
       m_ResourceFile: 
   m_AssetTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 78cdffff
+    m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: ffffffff00000000225800002458000026580000285800004c5800004e5f0000665f0000ea5f0000f45f0000f65f0000
     m_RenameOverlay:
@@ -752,8 +752,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 78cdffff
-    m_LastClickedInstanceID: -12936
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
